@@ -1,0 +1,1626 @@
+html {
+    position: relative;
+}
+
+body {
+    margin-bottom: 120px;
+}
+
+.home {
+    /*position: relative;*/
+    background: #FFFFFF;
+    /*width: 1366px;*/
+    height: 720px;
+}
+
+img {
+    /* position: absolute;
+
+    left: 643px;
+    top: 34px; */
+    background: #FFFFFF;
+    width: 82px;
+    height: 66px;
+    margin-top: 34px;
+}
+
+img-kampret {
+    position: absolute;
+    width: 82px;
+    height: 66px;
+    left: 643px;
+    top: 34px;
+}
+
+.judul {
+    position: absolute;
+    width: 735px;
+    height: 54px;
+    left: 314px;
+    top: 139px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #159800;
+}
+
+.card-1 {
+    position: absolute;
+    width: 414px;
+    height: 131px;
+    left: 252px;
+    top: 220px;
+
+    background: #FFFFFF;
+    border: 1px solid #DCDCDC;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 6px;
+}
+
+.card-1 i {
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 28px;
+    color: #159800;
+}
+
+.line-1 {
+    width: 60px;
+    margin-left: 60px;
+    margin-right: 273px;
+    margin-top: 46px;
+    position: absolute;
+    border: 1px solid #C7C7C7;
+    transform: rotate(90deg);
+}
+
+.z-penghasilan {
+    margin-left: 88px;
+    margin-top: 17px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 27px;
+    line-height: 32px;
+
+    color: #FFA825;
+}
+
+.z-des-penghasilan {
+    margin-left: 88px;
+    margin-top: -8px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+
+    color: #000000;
+}
+
+.card-2 {
+    position: absolute;
+    width: 414px;
+    height: 131px;
+    left: 252px;
+    top: 376px;
+
+    background: #FFFFFF;
+    border: 1px solid #DCDCDC;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 6px;
+}
+
+.card-2 i {
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 28px;
+    color: #159800;
+}
+
+.line-2 {
+    width: 60px;
+    margin-left: 60px;
+    margin-right: 273px;
+    margin-top: 46px;
+    position: absolute;
+    border: 1px solid #C7C7C7;
+    transform: rotate(90deg);
+}
+
+.z-perdagangan {
+    margin-left: 88px;
+    margin-top: 17px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 27px;
+    line-height: 32px;
+
+    color: #FFA825;
+}
+
+.card-3 {
+    position: absolute;
+    width: 414px;
+    height: 131px;
+    left: 252px;
+    top: 533px;
+
+    background: #FFFFFF;
+    border: 1px solid #DCDCDC;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 6px;
+}
+
+.card-3 i {
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 28px;
+    color: #159800;
+}
+
+.line-3 {
+    width: 60px;
+    margin-left: 60px;
+    margin-right: 273px;
+    margin-top: 46px;
+    position: absolute;
+    border: 1px solid #C7C7C7;
+    transform: rotate(90deg);
+}
+
+.emas-perak {
+    margin-left: 88px;
+    margin-top: 17px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 27px;
+    line-height: 32px;
+
+    color: #FFA825;
+}
+
+.card-4 {
+    position: absolute;
+    width: 414px;
+    height: 131px;
+    left: 696px;
+    top: 533px;
+
+    background: #FFFFFF;
+    border: 1px solid #DCDCDC;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 6px;
+}
+
+.card-4 i {
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 28px;
+    color: #159800;
+}
+
+.line-4 {
+    width: 60px;
+    margin-left: 60px;
+    margin-right: 273px;
+    margin-top: 46px;
+    position: absolute;
+    border: 1px solid #C7C7C7;
+    transform: rotate(90deg);
+}
+
+.z-pertanian {
+    margin-left: 88px;
+    margin-top: 17px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 27px;
+    line-height: 32px;
+
+    color: #FFA825;
+}
+
+.card-5 {
+    position: absolute;
+    width: 414px;
+    height: 131px;
+    left: 696px;
+    top: 220px;
+
+    background: #FFFFFF;
+    border: 1px solid #DCDCDC;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 6px;
+}
+
+.card-5 i {
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 28px;
+    color: #159800;
+}
+
+.line-5 {
+    width: 60px;
+    margin-left: 60px;
+    margin-right: 273px;
+    margin-top: 46px;
+    position: absolute;
+    border: 1px solid #C7C7C7;
+    transform: rotate(90deg);
+}
+
+.z-tabungan {
+    margin-left: 88px;
+    margin-top: 17px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 27px;
+    line-height: 32px;
+
+    color: #FFA825;
+}
+
+.card-6 {
+    position: absolute;
+    width: 414px;
+    height: 131px;
+    left: 696px;
+    top: 377px;
+
+    background: #FFFFFF;
+    border: 1px solid #DCDCDC;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 6px;
+}
+
+.card-6 i {
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 28px;
+    color: #159800;
+}
+
+.line-6 {
+    width: 60px;
+    margin-left: 60px;
+    margin-right: 273px;
+    margin-top: 46px;
+    position: absolute;
+    border: 1px solid #C7C7C7;
+    transform: rotate(90deg);
+}
+
+.z-perak {
+    margin-left: 88px;
+    margin-top: 17px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 27px;
+    line-height: 32px;
+
+    color: #FFA825;
+}
+
+.footer {
+    position: absolute;
+    height: 25px;
+    left: 596px;
+    top: 1146px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #000000;
+}
+
+.ellipse-1 {
+    border-radius: 100%;
+    position: absolute;
+
+    background: #AB6700;
+
+    width: 100.42px;
+    height: 100.42px;
+    left: 24.21px;
+    top: 610px;
+
+}
+
+.ellipse-2 {
+    position: absolute;
+    background: #159800;
+
+    border-radius: 70% 70% 70% 0%;
+    width: 100.42px;
+    height: 100.42px;
+    top: 632.15px;
+}
+
+.ellipse-3 {
+    border-radius: 70% 70% 70% 0%;
+    position: absolute;
+
+    background: #FFA825;
+
+    width: 100.42px;
+    height: 100.42px;
+    left: 36.88px;
+    top: 632.18px;
+
+}
+
+.ellipse-4 {
+    position: absolute;
+    /* width: 180px;
+    height: 120px;
+    top: 1100px;
+    left: 1171px;
+    right: -0.1px; */
+    border-radius: 70% 70% 0% 20%;
+
+    background: #AB6700;
+
+    width: 100.42px;
+    height: 100.42px;
+    left: 1261.21px;
+    top: 610px;
+
+}
+
+.ellipse-5 {
+    position: absolute;
+    background: #159800;
+
+    border-radius: 90% 90% 20% 90%;
+    width: 100.42px;
+    height: 100.42px;
+    left: 1226px;
+    top: 632.15px;
+}
+
+.ellipse-6 {
+    position: absolute;
+    background: #FFA825;
+
+    border-radius: 80% 70% 0% 70%;
+    width: 100.42px;
+    height: 100.42px;
+    left: 1261.87px;
+    top: 632.18px;
+}
+
+.modal-content {
+    position: relative;
+    width: 791px;
+    height: 1000px;
+    left: -125px;
+    top: 0px;
+
+    background: #FFFFFF;
+    border: 1px solid #D3D3D3;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.8);
+}
+
+.m-perdagangan {
+    position: relative;
+    width: 791px;
+    height: 1120px;
+    left: -125px;
+    top: 0px;
+
+    background: #FFFFFF;
+    border: 1px solid #D3D3D3;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.8);
+}
+
+.m-z-pertanian {
+    position: relative;
+    width: 791px;
+    height: 700px;
+    left: -125px;
+    top: 0px;
+
+    background: #FFFFFF;
+    border: 1px solid #D3D3D3;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.8);
+}
+
+.m-z-emas {
+    position: relative;
+    width: 791px;
+    height: 900px;
+    left: -125px;
+    top: 0px;
+
+    background: #FFFFFF;
+    border: 1px solid #D3D3D3;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.8);
+}
+
+.m-z-perak {
+    position: relative;
+    width: 791px;
+    height: 900px;
+    left: -125px;
+    top: 0px;
+
+    background: #FFFFFF;
+    border: 1px solid #D3D3D3;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.8);
+}
+
+/* Zakat Penghasilan */
+.lpenghasilan {
+    position: absolute;
+    width: 500px;
+    height: 44px;
+    left: 95px;
+    top: 47px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.ipenghasilan {
+    border: none;
+    border-bottom: 1px solid;
+    position: absolute;
+    width: 393px;
+    height: 31px;
+    left: 94px;
+    top: 97px;
+
+    font-family: 'Roboto';
+    font-style: italic;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+.lpengeluaran {
+    position: absolute;
+    width: 700px;
+    height: 44px;
+    left: 95px;
+    top: 186px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.ipengeluaran {
+    border: none;
+    border-bottom: 1px solid;
+    position: absolute;
+    width: 393px;
+    height: 31px;
+    left: 94px;
+    top: 236px;
+
+    font-family: 'Roboto';
+    font-style: italic;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+.nishab {
+    position: absolute;
+    width: 350px;
+    height: 44px;
+    left: 95px;
+    top: 320px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.inishab-peng {
+    border: none;
+    border-bottom: 1px solid;
+    position: absolute;
+    width: 393px;
+    height: 31px;
+    left: 94px;
+    top: 370px;
+
+    font-family: 'Roboto';
+    font-style: italic;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+.lz-peng {
+    position: absolute;
+    width: 400px;
+    height: 44px;
+    left: 95px;
+    top: 459px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #FFA825;
+}
+
+.iz-peng {
+    border: none;
+    border-bottom: 1px solid;
+    position: absolute;
+    width: 393px;
+    height: 31px;
+    left: 94px;
+    top: 509px;
+
+    font-family: 'Roboto';
+    font-style: italic;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+.lz-pb {
+    position: absolute;
+    width: 450px;
+    height: 44px;
+    left: 95px;
+    top: 588px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #FFA825;
+}
+
+.iz-pb {
+    border: none;
+    border-bottom: 1px solid;
+    position: absolute;
+    width: 393px;
+    height: 31px;
+    left: 94px;
+    top: 638px;
+
+    font-family: 'Roboto';
+    font-style: italic;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+.lz-pt {
+    position: absolute;
+    width: 410px;
+    height: 44px;
+    left: 95px;
+    top: 721px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #FFA825;
+}
+
+.iz-pt {
+    border: none;
+    border-bottom: 1px solid;
+    position: absolute;
+    width: 393px;
+    height: 31px;
+    left: 94px;
+    top: 771px;
+
+    font-family: 'Roboto';
+    font-style: italic;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+/* End Zakat Penghasilan*/
+
+/* Zakat Perdagangan */
+.lmodal {
+    position: absolute;
+    width: 500px;
+    height: 44px;
+    left: 95px;
+    top: 47px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.imodal {
+    border: none;
+    border-bottom: 1px solid;
+    position: absolute;
+    width: 393px;
+    height: 31px;
+    left: 94px;
+    top: 97px;
+
+    font-family: 'Roboto';
+    font-style: italic;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+.luntung {
+    position: absolute;
+    width: 500px;
+    height: 44px;
+    left: 95px;
+    top: 186px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.lpiutang {
+    position: absolute;
+    width: 350px;
+    height: 44px;
+    left: 95px;
+    top: 320px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.ltempo {
+    position: absolute;
+    width: 350px;
+    height: 44px;
+    left: 95px;
+    top: 459px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.lnishab {
+    position: absolute;
+    width: 350px;
+    height: 44px;
+    left: 95px;
+    top: 588px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.lwajib {
+    position: absolute;
+    width: 410px;
+    height: 44px;
+    left: 95px;
+    top: 721px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #FFA825;
+}
+
+.ljumlah {
+    position: absolute;
+    width: 410px;
+    height: 44px;
+    left: 95px;
+    top: 856px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #FFA825;
+}
+
+.iuntung {
+    border: none;
+    border-bottom: 1px solid;
+    position: absolute;
+    width: 393px;
+    height: 31px;
+    left: 94px;
+    top: 236px;
+
+    font-family: 'Roboto';
+    font-style: italic;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+.imodal {
+    border: none;
+    border-bottom: 1px solid;
+    position: absolute;
+    width: 393px;
+    height: 31px;
+    left: 94px;
+    top: 97px;
+
+    font-family: 'Roboto';
+    font-style: italic;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+.iuntung {
+    border: none;
+    border-bottom: 1px solid;
+    position: absolute;
+    width: 393px;
+    height: 31px;
+    left: 94px;
+    top: 236px;
+
+    font-family: 'Roboto';
+    font-style: italic;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+.ipiutang {
+    border: none;
+    border-bottom: 1px solid;
+    position: absolute;
+    width: 393px;
+    height: 31px;
+    left: 94px;
+    top: 370px;
+
+    font-family: 'Roboto';
+    font-style: italic;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+.itempo {
+    border: none;
+    border-bottom: 1px solid;
+    position: absolute;
+    width: 393px;
+    height: 31px;
+    left: 94px;
+    top: 509px;
+
+    font-family: 'Roboto';
+    font-style: italic;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+.inishab {
+    border: none;
+    border-bottom: 1px solid;
+    position: absolute;
+    width: 393px;
+    height: 31px;
+    left: 94px;
+    top: 638px;
+
+    font-family: 'Roboto';
+    font-style: italic;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+.iwajib {
+    border: none;
+    border-bottom: 1px solid;
+    position: absolute;
+    width: 393px;
+    height: 31px;
+    left: 94px;
+    top: 771px;
+
+    font-family: 'Roboto';
+    font-style: italic;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+.ijumlah {
+    border: none;
+    border-bottom: 1px solid;
+    position: absolute;
+    width: 393px;
+    height: 31px;
+    left: 94px;
+    top: 906px;
+
+    font-family: 'Roboto';
+    font-style: italic;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+.red-tabung {
+    color: #FC0202;
+}
+
+/* End Zakat Perdagangan */
+
+/* Emas dan Perak */
+.lnishab-emas {
+    position: absolute;
+    width: 350px;
+    height: 44px;
+    left: 95px;
+    top: 320px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.lzakat-emas {
+    position: absolute;
+    width: 350px;
+    height: 44px;
+    left: 95px;
+    top: 459px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #FFA825;
+}
+
+
+.lwajib-emas {
+    position: absolute;
+    width: 410px;
+    height: 44px;
+    left: 95px;
+    top: 597px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #FFA825;
+}
+
+
+.iemas-e {
+    border: none;
+    border-bottom: 1px solid;
+    position: absolute;
+    width: 392px;
+    height: 31px;
+    left: 94px;
+    top: 224px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+.iperak-e {
+    border: none;
+    border-bottom: 1px solid;
+    position: absolute;
+    width: 392px;
+    height: 44px;
+    left: 94px;
+    top: 353px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+.inishab-e {
+    border: none;
+    border-bottom: 1px solid;
+    position: absolute;
+    width: 393px;
+    height: 31px;
+    left: 94px;
+    top: 509px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+.inishab-p {
+    border: none;
+    border-bottom: 1px solid;
+    position: absolute;
+    width: 393px;
+    height: 31px;
+    left: 94px;
+    top: 638px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+.iwajib-emas {
+    border: none;
+    border-bottom: 1px solid;
+    position: absolute;
+    width: 393px;
+    height: 31px;
+    left: 94px;
+    top: 661px;
+
+    font-family: 'Roboto';
+    font-style: italic;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+/* End Emas dan Perak*/
+
+/* Zakat Tabungan */
+.lhasil {
+    position: absolute;
+    width: 190px;
+    height: 44px;
+    left: 94px;
+    top: 174px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.ihasil {
+    border: none;
+    border-bottom: 1px solid;
+    position: absolute;
+    width: 393px;
+    height: 31px;
+    left: 94px;
+    top: 218px;
+
+    font-family: 'Roboto';
+    font-style: italic;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+.lhalal {
+    position: absolute;
+    width: 530px;
+    height: 31px;
+    left: 90px;
+    top: 254px;
+
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #FC0202;
+}
+
+.lharga {
+    position: absolute;
+    width: 300px;
+    height: 44px;
+    left: 94px;
+    top: 308px;
+
+    font-family: ''Roboto'';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.iharga {
+    border: none;
+    border-bottom: 1px solid;
+    position: absolute;
+    width: 393px;
+    height: 44px;
+    left: 94px;
+    top: 350px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+.lnishab_e {
+    position: absolute;
+    width: 638px;
+    height: 44px;
+    left: 94px;
+    top: 451px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.inishab_e {
+    border: none;
+    border-bottom: 1px solid;
+    position: absolute;
+    width: 393px;
+    height: 44px;
+    left: 94px;
+    top: 500px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+.lwajib_t {
+    position: absolute;
+    width: 381px;
+    height: 44px;
+    left: 94px;
+    top: 600px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #EFB520;
+}
+
+.iwajib_t {
+    border: none;
+    border-bottom: 1px solid;
+    position: absolute;
+    width: 393px;
+    height: 31px;
+    left: 94px;
+    top: 656px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+.ljumlah_t {
+    position: absolute;
+    width: 308px;
+    height: 44px;
+    left: 94px;
+    top: 745px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #EFB520;
+}
+
+.ijumlah_t {
+    border: none;
+    border-bottom: 1px solid;
+    position: absolute;
+    width: 393px;
+    height: 31px;
+    left: 94px;
+    top: 801px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+/* End Zakat Tabungan*/
+
+/* Zakat Pertanian */
+.lper {
+    position: absolute;
+    width: 500px;
+    height: 44px;
+    left: 95px;
+    top: 47px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.iper {
+    border: none;
+    border-bottom: 1px solid;
+    position: absolute;
+    width: 393px;
+    height: 31px;
+    left: 94px;
+    top: 97px;
+
+    font-family: 'Roboto';
+    font-style: italic;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+.lnisab-per {
+    position: absolute;
+    width: 700px;
+    height: 44px;
+    left: 95px;
+    top: 186px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.inisab-per {
+    border: none;
+    border-bottom: 1px solid;
+    position: absolute;
+    width: 393px;
+    height: 31px;
+    left: 94px;
+    top: 236px;
+
+    font-family: 'Roboto';
+    font-style: italic;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+.ljib-per {
+    position: absolute;
+    width: 700px;
+    height: 44px;
+    left: 95px;
+    top: 328px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #FFA825;
+}
+
+.ijib-per {
+    border: none;
+    border-bottom: 1px solid;
+    position: absolute;
+    width: 393px;
+    height: 31px;
+    left: 94px;
+    top: 370px;
+
+    font-family: 'Roboto';
+    font-style: italic;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+.ljum-per {
+    position: absolute;
+    width: 400px;
+    height: 44px;
+    left: 95px;
+    top: 459px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #FFA825;
+}
+
+.ijum-per {
+    border: none;
+    border-bottom: 1px solid;
+    position: absolute;
+    width: 393px;
+    height: 31px;
+    left: 94px;
+    top: 509px;
+
+    font-family: 'Roboto';
+    font-style: italic;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.37);
+}
+
+/* End Zakat Pertanian */
+
+/* HALAMAN FORM */
+.judul-form {
+    margin-top: 15px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    color: #159800;
+}
+
+.nama-lengkap {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #505050;
+}
+
+.form-nama {
+    height: 36px;
+    background: #FFFFFF;
+    border: 1px solid #D6D6D6;
+    box-sizing: border-box;
+}
+
+.atas-nama {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #505050;
+}
+
+.form-atas-nama {
+    background: #FFFFFF;
+    border: 1px solid #D6D6D6;
+    box-sizing: border-box;
+}
+
+.jenis-kelamin {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #505050;
+}
+
+.form-jenis-kelamin {
+    background: #FFFFFF;
+    border: 1px solid #D6D6D6;
+    box-sizing: border-box;
+}
+
+.email {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #505050;
+}
+
+.form-email {
+    background: #FFFFFF;
+    border: 1px solid #D6D6D6;
+    box-sizing: border-box;
+}
+
+.phone {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #505050;
+}
+
+.form-phone {
+    background: #FFFFFF;
+}
+
+.form-phone-dua {
+    background: #FFFFFF;
+}
+
+.akad-donasi {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #505050;
+}
+
+.form-akad-donasi {
+    background: #FFFFFF;
+    border: 1px solid #D6D6D6;
+    box-sizing: border-box;
+}
+
+.nominal {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #505050;
+}
+
+.form-nominal {
+    background: #FFFFFF;
+}
+
+.bank {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #505050;
+}
+
+.form-bank {
+    background: #FFFFFF;
+    border: 1px solid #D6D6D6;
+    box-sizing: border-box;
+}
+
+.button {
+    background: #FFA825;
+    border-radius: 3px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.button:hover {
+    color: #FFFFFF;
+}
+
+
+.ellipse-7 {
+    border-radius: 100%;
+    position: absolute;
+
+    background: #AB6700;
+
+    width: 100.42px;
+    height: 100.42px;
+    left: 24.21px;
+    top: 817px;
+
+}
+
+.ellipse-8 {
+    position: absolute;
+    background: #159800;
+
+    border-radius: 70% 70% 70% 0%;
+    width: 100.42px;
+    height: 100.42px;
+    top: 835px;
+}
+
+.ellipse-9 {
+    border-radius: 70% 70% 70% 0%;
+    position: absolute;
+
+    background: #FFA825;
+
+    width: 100.42px;
+    height: 100.42px;
+    left: 36.88px;
+    top: 835px;
+
+}
+
+.ellipse-10 {
+    position: absolute;
+    /* width: 180px;
+    height: 120px;
+    top: 1100px;
+    left: 1171px;
+    right: -0.1px; */
+    border-radius: 70% 70% 0% 20%;
+
+    background: #AB6700;
+
+    width: 100.42px;
+    height: 100.42px;
+    left: 1261.21px;
+    top: 817px;
+
+}
+
+.ellipse-11 {
+    position: absolute;
+    background: #159800;
+
+    border-radius: 90% 90% 20% 90%;
+    width: 100.42px;
+    height: 100.42px;
+    left: 1226px;
+    top: 835px;
+}
+
+.ellipse-12 {
+    position: absolute;
+    background: #FFA825;
+
+    border-radius: 80% 70% 0% 70%;
+    width: 100.42px;
+    height: 100.42px;
+    left: 1261.87px;
+    top: 835px;
+}
